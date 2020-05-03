@@ -4,6 +4,7 @@
 
 1. I used React and Sass for building this project.
 2. For the timing counter , given time is passed so i used May 5 2020 15:00 UK time .
+3. Project deployed at `https://rizikolik.github.io/DespatchCloud/` address, its a private repository.
 
 ## Usage
 
