@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DespatchCloud/static/css/main.e8cb8756.chunk.css",
+    "main.js": "/DespatchCloud/static/js/main.1becd581.chunk.js",
+    "main.js.map": "/DespatchCloud/static/js/main.1becd581.chunk.js.map",
+    "runtime-main.js": "/DespatchCloud/static/js/runtime-main.9610c75b.js",
+    "runtime-main.js.map": "/DespatchCloud/static/js/runtime-main.9610c75b.js.map",
+    "static/js/2.7a373bb8.chunk.js": "/DespatchCloud/static/js/2.7a373bb8.chunk.js",
+    "static/js/2.7a373bb8.chunk.js.map": "/DespatchCloud/static/js/2.7a373bb8.chunk.js.map",
+    "index.html": "/DespatchCloud/index.html",
+    "precache-manifest.894feef6fa3837bc497b3d467e9f898e.js": "/DespatchCloud/precache-manifest.894feef6fa3837bc497b3d467e9f898e.js",
+    "service-worker.js": "/DespatchCloud/service-worker.js",
+    "static/css/main.e8cb8756.chunk.css.map": "/DespatchCloud/static/css/main.e8cb8756.chunk.css.map",
+    "static/js/2.7a373bb8.chunk.js.LICENSE.txt": "/DespatchCloud/static/js/2.7a373bb8.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/DespatchCloud/static/media/Lato-LightItalic.3d747d8b.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9610c75b.js",
+    "static/js/2.7a373bb8.chunk.js",
+    "static/css/main.e8cb8756.chunk.css",
+    "static/js/main.1becd581.chunk.js"
+  ]
+}
