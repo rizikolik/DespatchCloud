@@ -1,12 +1,5 @@
 import React from "react";
-import {
-  Navbar,
-  NavItem,
-  Button,
-  NavDropdown,
-  MenuItem,
-  Nav,
-} from "react-bootstrap";
+import { Navbar, Nav } from "react-bootstrap";
 
 import {
   RiTruckLine,
