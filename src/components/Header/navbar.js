@@ -22,7 +22,7 @@ class TopMenu extends React.Component {
         collapseOnSelect
         expand="lg"
       >
-        <Navbar.Brand className="user-name" href="#home">
+        <Navbar.Brand className="brand-name" href="#home">
           Dave Smith
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
@@ -42,12 +42,17 @@ class TopMenu extends React.Component {
             </Nav.Link>
           </Nav>
           <Nav>
-            <Nav.Item>
-              <RiTruckLine />
-              Free Delivery On Orders over £60
-            </Nav.Item>
+            <Nav.Link className="nav-item" href="#">
+              <div className="truck">
+                <RiTruckLine />
+              </div>
+              <div className="delivery-orders">
+                <span className="free">FREE DELIVERY</span>
+                <span className="order">on orders over £60</span>
+              </div>
+            </Nav.Link>
             <Nav.Link eventKey={2} href="#">
-              <RiHeartLine />
+              <RiHeartLine className="icon" />
             </Nav.Link>
             <Nav.Link eventKey={2} href="#">
               <RiUser3Line />

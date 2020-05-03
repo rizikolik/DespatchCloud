@@ -29,7 +29,6 @@ class Counter extends React.Component {
 
   render() {
     const { days, hours, minutes, seconds } = this.state;
-    console.log(this.state);
 
     return (
       <div className="counter">
