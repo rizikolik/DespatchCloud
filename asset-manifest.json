@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DespatchCloud/static/css/main.e8cb8756.chunk.css",
-    "main.js": "/DespatchCloud/static/js/main.0a57115f.chunk.js",
-    "main.js.map": "/DespatchCloud/static/js/main.0a57115f.chunk.js.map",
+    "main.js": "/DespatchCloud/static/js/main.13bde4b2.chunk.js",
+    "main.js.map": "/DespatchCloud/static/js/main.13bde4b2.chunk.js.map",
     "runtime-main.js": "/DespatchCloud/static/js/runtime-main.9610c75b.js",
     "runtime-main.js.map": "/DespatchCloud/static/js/runtime-main.9610c75b.js.map",
     "static/js/2.7a373bb8.chunk.js": "/DespatchCloud/static/js/2.7a373bb8.chunk.js",
     "static/js/2.7a373bb8.chunk.js.map": "/DespatchCloud/static/js/2.7a373bb8.chunk.js.map",
     "index.html": "/DespatchCloud/index.html",
-    "precache-manifest.811f691b66e60a482023f6737ea9ed50.js": "/DespatchCloud/precache-manifest.811f691b66e60a482023f6737ea9ed50.js",
+    "precache-manifest.e01a2814961e5fc110362f5c5451056f.js": "/DespatchCloud/precache-manifest.e01a2814961e5fc110362f5c5451056f.js",
     "service-worker.js": "/DespatchCloud/service-worker.js",
     "static/css/main.e8cb8756.chunk.css.map": "/DespatchCloud/static/css/main.e8cb8756.chunk.css.map",
     "static/js/2.7a373bb8.chunk.js.LICENSE.txt": "/DespatchCloud/static/js/2.7a373bb8.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.9610c75b.js",
     "static/js/2.7a373bb8.chunk.js",
     "static/css/main.e8cb8756.chunk.css",
-    "static/js/main.0a57115f.chunk.js"
+    "static/js/main.13bde4b2.chunk.js"
   ]
 }
