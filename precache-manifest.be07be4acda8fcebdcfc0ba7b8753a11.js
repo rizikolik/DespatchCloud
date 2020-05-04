@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b85b939c619b5a9faf45354883ea7661",
+    "revision": "92ead41ea2457dc6de3dfd8ef7c8ba6b",
     "url": "/DespatchCloud/index.html"
   },
   {
-    "revision": "ecd2ad375a984ca732f8",
+    "revision": "6a805a2f80559f1edfe6",
     "url": "/DespatchCloud/static/css/main.e8cb8756.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DespatchCloud/static/js/2.7a373bb8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ecd2ad375a984ca732f8",
-    "url": "/DespatchCloud/static/js/main.1becd581.chunk.js"
+    "revision": "6a805a2f80559f1edfe6",
+    "url": "/DespatchCloud/static/js/main.4e432855.chunk.js"
   },
   {
     "revision": "df25761ebb72a7e3a92e",
