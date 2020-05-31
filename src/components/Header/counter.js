@@ -13,7 +13,7 @@ class Counter extends React.Component {
   }
   componentDidMount() {
     this.myInterval = setInterval(() => {
-      const countDownDate = "May 5 2020 15:00:00 GMT +0100";
+      const countDownDate = "July 5 2020 15:00:00 GMT +0100";
       const t = Date.parse(countDownDate) - Date.parse(new Date());
       const second = Math.floor((t / 1000) % 60);
       const minute = Math.floor((t / 1000 / 60) % 60);
